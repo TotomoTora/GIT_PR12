@@ -51,6 +51,6 @@ console.log(greet("Мир"));
 ----------------------------------
 ## Полезные ссылки 🔗
 
-[Node.js](https://nodejs.org/)
-[GitHub](https://github.com/)
+[Node.js](https://nodejs.org/)\
+[GitHub](https://github.com/)\
 [Markdown Guide](https://www.markdownguide.org/)
